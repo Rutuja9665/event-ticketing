@@ -17,5 +17,6 @@ The goal of this project is to build a transparent and tamper-proof ticketing pl
 - Integrate with a frontend app for event browsing and wallet connection
 
 ## 5. Contract Address
+*ST26B4FXNDPH0MWAWQ02JS16K2NH36XHYDWNF1WDK.event-ticketing*
 <img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/628273cd-29d3-418e-9fea-93670fd9b96c" />
 
